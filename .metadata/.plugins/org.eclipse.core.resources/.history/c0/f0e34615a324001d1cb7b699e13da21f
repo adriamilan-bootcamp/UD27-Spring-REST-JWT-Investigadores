@@ -1,0 +1,5 @@
+package com.adriamilan.investigadores.security;
+
+public class JwtUtil {
+
+}
